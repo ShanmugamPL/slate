@@ -1,10 +1,5 @@
 ---
-title: API Reference
-
-language_tabs:
-  - shell
-  - ruby
-  - python
+title: ServiceDesk Plus API Reference
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
