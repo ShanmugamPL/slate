@@ -7,6 +7,7 @@ toc_footers:
 
 includes:
   - request
+  - task
 
 search: true
 ---
